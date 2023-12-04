@@ -65,7 +65,7 @@ const sampleData = [
     age: 28,
     city: 'Denver',
     occupation: 'Marketing Manager',
-  }
+  },
 
   {
     id: 10,
